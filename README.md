@@ -48,25 +48,7 @@ A web-based platform that allows employees to share role-specific reviews about 
 ## 📂 Project Structure
 
 
-project/
-│
-├── app.py # Main Flask application
-├── database.py # MongoDB connection & operations
-├── config.py # Configuration settings
-│
-├── templates/ # HTML templates
-│ ├── login.html
-│ ├── register.html
-│ ├── employee_dashboard.html
-│ ├── user_dashboard.html
-│ └── admin.html
-│
-├── static/
-│ ├── css/
-│ ├── js/
-│ └── uploads/ # Uploaded proof documents
-│
-└── requirements.txt
+
 
 
 
