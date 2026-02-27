@@ -43,9 +43,7 @@ A web-based platform that allows employees to share role-specific reviews about 
 | Jinja2     | Template Rendering |
 | Werkzeug   | Password Hashing |
 
----
-
-## 📂 Project Structure
+--
 
 
 
@@ -53,19 +51,5 @@ A web-based platform that allows employees to share role-specific reviews about 
 
 
 
----
 
-## 🔐 Authentication & Security
-
-- Passwords hashed using `generate_password_hash`
-- Session-based authentication
-- Role-based access control:
-  - `employee_required`
-  - `admin_required`
-- File upload validation
-- Ownership validation for review edits/deletes
-
----
-
-## 📊 Database Collections
 
