@@ -1,4 +1,4 @@
-# ABBS-HACKATHON-DARSHAN-HEGDE
+# ABBS-HACKATHON
 
 
 # 🏢 Company & College Review Platform
