@@ -1,4 +1,4 @@
-# Company and College Review Platform
+# Company and College Review Platform.
 
 A comprehensive web-based platform that allows employees to share role-specific reviews about companies they have worked with, helping job seekers and users make informed career decisions.
 
