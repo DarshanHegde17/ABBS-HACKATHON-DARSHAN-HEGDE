@@ -4,6 +4,8 @@ A comprehensive web-based platform that allows employees to share role-specific 
 
 ## Features
 
+
+
 ### For Employees
 - **Create Reviews**: Write detailed reviews about current and previous companies
 - **Role-Specific Reviews**: Categorize reviews by job role (SDE, HR, Manager, Intern, etc.)
