@@ -15,9 +15,7 @@ A comprehensive web-based platform that allows employees to share role-specific 
 - **View Company Profiles**: Get insights about companies through multiple reviews
 - **Role-Based Insights**: See ratings and feedback for specific job roles within companies
 - **Read-Only Access**: View reviews without the ability to edit or create (exclusive to employees)
-
-
-
+- 
 ## Technology Stack
 
 - **Frontend**: HTML5, CSS3 (Responsive Design)
