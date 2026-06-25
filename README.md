@@ -9,8 +9,6 @@ A comprehensive web-based platform that allows employees to share role-specific 
 - **Edit/Delete**: Manage and update your written reviews
 - **Dashboard**: View all your submitted reviews in one place
 
-
-
 ### For Job Seekers
 - **Search Companies**: Find and read reviews about companies
 - **Filter Reviews**: Filter by company, job role, and rating
